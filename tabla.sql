@@ -1,4 +1,5 @@
-
+--
+--Los Datos de la base estan en conexion\config.php
 --
 -- Estructura de tabla para la tabla `usuarios`
 --
